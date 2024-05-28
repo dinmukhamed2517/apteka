@@ -49,7 +49,7 @@ class HomeFragment:BaseFragment<FragmentHomeBinding>(FragmentHomeBinding::inflat
             Product(7, "ВАЛИДОЛ С ГЛЮКОЗОЙ №10 таб Комплекс Ирбит", R.drawable.product_7, 120.0),
             Product(8, "СТРЕПСИЛС ИНТЕНСИВ №24 Флурбипрофен 8.75 мг", R.drawable.product_8, 2160.0),
             Product(9, "КСИМЕЛИН ЭКО 0,1% 10 мл спрей наз Ксилометазолин", R.drawable.product_9, 1600.0),
-            Product(10, "ЗОДАК 10 мг №10 таб Цетиризин", R.drawable.product_10, 1300.0),
+            Product(10, "ЗОДАК 10 мг №10 таб Цетиризин", R.drawable.product_10, 1300.0)
         )
     }
     fun getList2():List<Product>{
